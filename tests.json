@@ -9,10 +9,34 @@
   },
   {
     "id": "baekbal-x10-practice-tests",
-    "title": "백발백중 X-10 모의고사 (13세트)",
-    "subtitle": "중1능률 · 중2능률 · 중2동아 · 짧은 정답 채점",
+    "title": "백발백중 X-10 연습 허브",
+    "subtitle": "중2능률 L05·L06 · 중2동아 L05 완료 · 짧은 정답 채점",
     "url": "https://mrjkorea.github.io/baekbal-x10-practice-tests/",
     "subject": "영어",
     "grade": "중1–중2"
+  },
+  {
+    "id": "baekbal-x10-j2-neung-l05",
+    "title": "중2능률 L05 X-10 (10개)",
+    "subtitle": "어휘·대화·Grammar·Reading·Review · 최종점검 모의 1–3회",
+    "url": "https://mrjkorea.github.io/baekbal-x10-practice-tests/",
+    "subject": "영어",
+    "grade": "중2"
+  },
+  {
+    "id": "baekbal-x10-j2-neung-l06",
+    "title": "중2능률 L06 X-10 (9개)",
+    "subtitle": "어휘·대화·Reading·Review · 최종점검 모의 1–3회",
+    "url": "https://mrjkorea.github.io/baekbal-x10-practice-tests/",
+    "subject": "영어",
+    "grade": "중2"
+  },
+  {
+    "id": "baekbal-x10-j2-donga-l05",
+    "title": "중2동아 L05 X-10 (10개)",
+    "subtitle": "어휘·대화·Grammar·Reading·Review · 최종점검 모의 1–3회",
+    "url": "https://mrjkorea.github.io/baekbal-x10-practice-tests/",
+    "subject": "영어",
+    "grade": "중2"
   }
 ]
