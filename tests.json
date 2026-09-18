@@ -38,5 +38,21 @@
     "url": "https://mrjkorea.github.io/baekbal-x10-practice-tests/",
     "subject": "영어",
     "grade": "중2"
+  },
+  {
+    "id": "daily-news-quiz",
+    "title": "Daily ESL News Quiz",
+    "subtitle": "Mon–Fri news comprehension · score + retake · no sign-in",
+    "url": "https://mrjkorea.github.io/daily-news-quiz/",
+    "subject": "영어",
+    "grade": "ESL"
+  },
+  {
+    "id": "news-word-practice",
+    "title": "Daily ESL News Word Practice",
+    "subtitle": "10 news words per day · practice + test · no sign-in",
+    "url": "https://mrjkorea.github.io/news-word-practice/",
+    "subject": "영어",
+    "grade": "ESL"
   }
 ]
